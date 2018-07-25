@@ -1,2 +1,3 @@
 # first_attempt
-first attempt to ue git hub
+first attempt to use git hub
+primo tentativo di usare git hub
